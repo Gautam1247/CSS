@@ -1,0 +1,11 @@
+#div1{
+    background-color:red ;
+    position: relative; /*in respect to initial position of the element*/
+    top: 60px;
+}
+#div2{
+
+    position: sticky;
+    top: 80px;
+    background-color: red;
+}

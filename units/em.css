@@ -1,0 +1,13 @@
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+    font-size: 10px;
+}
+#box2{
+    width: 50%;
+    height: 50px;
+    background-color: red;
+    font-size: 2em; /* 2 times the fontsize of box1 */
+    margin-left: 2em; /*2 times the font size of itself*/
+}

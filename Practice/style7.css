@@ -1,0 +1,59 @@
+#amazon{
+    font-size: 25px;
+    color: orange;
+    text-decoration: none;
+}
+#Account{
+    color: white;
+    margin-left: 200px;
+}
+#Cart{
+    margin-left: 200px;
+    color: white;
+}
+#Contact{
+    color: white;
+    padding-left: 20px;
+    margin-left: 200px;
+
+}
+input{
+    margin-left: 200px;
+}
+button{
+    color: white;
+    background-color: orange;
+}
+header{
+    height: 60px;
+    background-color: black;
+}
+.smalldiv{
+    height: 100px;
+    width: 100px;
+    border:2px solid black;
+    font-size: large;
+
+}
+#Bigdiv{
+    height: 580px;
+}
+#div1{
+    background-color: rgba(255,0,0,0.5);
+    margin-top: 20px;
+}
+#div2{
+    background-color: rgba(0,255,0,0.5);
+     margin-top: 20px;
+}
+#div3{
+    background-color: rgba(0,0,255,0.5);
+     margin-top: 20px;
+}
+footer{
+    margin-top: 20px;
+    background-color: rgb(2, 2, 46);
+    color: aliceblue;
+    text-align: center;
+
+}

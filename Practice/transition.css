@@ -1,0 +1,16 @@
+div {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  border: 2px solid black;
+  transition: all ease-in;
+  position: absolute;
+  top: 40px;
+  transition: all 2s ease-in;
+}
+div:hover {
+  color: antiquewhite;
+  background-color: black;
+  top: 80px;
+  transform: translate(20px);
+}

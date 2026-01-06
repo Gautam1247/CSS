@@ -1,0 +1,5 @@
+#box1{
+    background-color: brown;
+    height: 90vh; /* 90% the height of document  */
+    width: 80vw; /* 90% the width of document */
+}

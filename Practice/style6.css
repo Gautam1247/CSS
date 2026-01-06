@@ -1,0 +1,30 @@
+a{
+    font-size: 25px;
+    color: orange;
+    text-decoration: none;
+}
+#Account{
+    color: white;
+    margin-left: 200px;
+}
+#Cart{
+    margin-left: 200px;
+    color: white;
+}
+#Contact{
+    color: white;
+    padding-left: 20px;
+    margin-left: 200px;
+
+}
+input{
+    margin-left: 200px;
+}
+button{
+    color: white;
+    background-color: orange;
+}
+div{
+    height: 60px;
+    background-color: black;
+}
